@@ -1,8 +1,8 @@
 # Welcome to BitRate!
 
-BitRate is a Python program I made to count the number of occurences of certain words in Twitch chat during a stream. I was originally made for rating bits (hence the name) in [Northernlion](https://www.twitch.tv/northernlion)'s chat, but it can work with any channel!
+BitRate is a Python program I made to count the number of occurrences of certain words in Twitch chat during a stream. I was originally made for rating bits (hence the name) in [Northernlion](https://www.twitch.tv/northernlion)'s chat, but it can work with any channel!
 
-Below is a deeper look into how yo actually run BitRate. I don't actually recommend using this program because I don't know much about programming, but I hope it serves as a basis for someone with actual coding experience to make this a lot more efficient. (hit me up if you do!)
+Below is a deeper look into how you actually run BitRate. I don't actually recommend using this program because I don't know much about programming, but I hope it serves as a basis for someone with actual coding experience to make this a lot more efficient. (hit me up if you do!)
 
 ---
 
@@ -133,7 +133,7 @@ It requires no other arguments.
 
 DEFAULTS is a very useful tool if you tend to run the same commands on every log file. You can store these default commands on a ```.json``` file, and then run them whenever the program detects you are working with a set of log files for the first time.
 
-In order to add a default command (or many!), you will need to write it to the ```defaults.json``` file. This file is a "list of lists", with each sublist being a command.
+In order to add a default command (or many!), you will need to write it to the ```defaults.json``` file. This file is a "list of lists", with each inner list being a command.
 
 Now you will see the formatting for each command, followed by an example.
 
