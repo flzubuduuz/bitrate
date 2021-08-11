@@ -1,0 +1,22 @@
+[
+    ["rate", "lul", ["LUL"], [], 0, 1, 20],
+    ["first", "lul", 20, 1],
+
+    ["rate", "pog", ["POGGERS"], [], 0, 1, 20],
+    ["first", "pog", 20, 1],
+
+    ["rate", "bop", ["BOP"], [], 0, 1, 20],
+    ["first", "bop", 10, 1],
+
+    ["rate", "f", ["F"], [], 1, 0, 20],
+    ["first", "f", 10, 1],
+
+    ["rate", "monkas", ["monkaS"], [], 0, 1, 20],
+    ["first", "monkas", 10, 1],
+
+    ["rate", "plustwo", ["+2"], ["-2"], 0, 0, 20],
+    ["first", "plustwo", 20, 1],
+    ["first", "plustwo", 20, -1]
+	
+
+]
